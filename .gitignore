@@ -1,4 +1,4 @@
 .env
 *.log
 build/
-_pycache_/
+__pycache__/
